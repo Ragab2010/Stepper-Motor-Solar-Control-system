@@ -9,8 +9,8 @@ Research and Design:
 -Research your given sensor and SET UP A TEST EXPERIMENT TO TEST THE SENSOR ALONE.  Record all information about the testing of the sensor in your lab book and include how this information will be used in the program on the TIVA C EVB in your write ups.
 -Research the MOTOR DRIVER IC you chose for the MOTOR CONTROL and DESIGN A CIRCUIT (draw this in your lab book).  Record all the information of the research in your lab book.<br/>
 -You MUST use the test template for the final testing of your control system.
-Your control systems must have a working LCD, a key pad, the TIVA C EVB, a working interface to the sensor, a motor drive circuit and stepper motor along with a specific menu which have the following requirements:<br/><br/>
--Must be a 2-line display<br/><br/>
+Your control systems must have a working LCD, a key pad, the TIVA C EVB, a working interface to the sensor, a motor drive circuit and stepper motor along with a specific menu which have the following requirements:<br/>
+-Must be a 2-line display<br/>
 -Must have an introductory screen that says: <br/>
 “<your name>’s solar control”<br/>
 “May 23, 2018”<br/>
